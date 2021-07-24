@@ -1,4 +1,4 @@
-# Webpack React Simple Boilerplate 
+# My Webpack React Simple Boilerplate 
 
 - **Lightweight substitution for create-react-app**
 - **Transpilation of JavaScript without conflicts**
