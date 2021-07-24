@@ -1,5 +1,5 @@
-#Webpack React Simple Boilerplate
-# if you wanna stay away from 'create-react-app'
+# Webpack React Simple Boilerplate 
+# to get rid of 'create-react-app'
 
 - **Lightweight substitution for create-react-app**
 - **Transpilation of JavaScript without conflicts**
