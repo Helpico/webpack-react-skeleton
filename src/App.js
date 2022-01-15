@@ -1,11 +1,11 @@
-import './styles/index.css'
-import React from 'react'
-import ReactDOM from 'react-dom'
+import React from "react";
 import image from './images/floating.svg'
-
-const couple = 'John & Marry'
+import './styles/index.css'
 
 function App() {
+
+  const couple = 'John & Marry'
+
     return (
       <div>
         <h1>Hello, {couple}</h1>
@@ -16,7 +16,4 @@ function App() {
     )
 }
 
-ReactDOM.render(<App />, document.getElementById('app') )
-
-
-if (module.hot) module.hot.accept()
+export default App;
